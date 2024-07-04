@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on
+  - Coupling a chemical transport model into a global circulation model ([GISS-GC](https://github.com/fetch4/GISS-GC)).
+  - Coupling asynchronous I/O tool [XIOS](forge.ipsl.jussieu.fr/ioserver/wiki) into the [nextSIM-DG](https://github.com/nextsimhub/nextsimdg) sea ice model.
+  - Enabling [PyTorch](https://github.com/pytorch/pytorch)'s automatic differentiation tool in [FTorch](https://github.com/Cambridge-ICCS/FTorch).
+  - Implementing mesh [movement](https://github.com/mesh-adaptation/movement) methods for [Firedrake](https://github.com/firedrakeproject/firedrake).
+- 🌱 I’m currently learning C++
+- 💬 Ask me about Python, C, Fortran, Bash
